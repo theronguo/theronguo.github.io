@@ -8,7 +8,6 @@ author_notes:
 - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 doi: "10.1016/j.cma.2021.113924"
-citation: "guo2021learning"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -35,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0045782521002619'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
