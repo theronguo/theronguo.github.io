@@ -1,12 +1,12 @@
 ---
-title: "An example journal article"
+title: "Learning constitutive models from microstructural simulations via a non-intrusive reduced basis method"
 authors:
 - admin
-- Robert Ford
+- Ondrej Rokos
+- Karen Veroy
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- 
+date: "2021-10-01T00:00:00Z"
 doi: "10.1016/j.cma.2021.113924"
 
 # Schedule page publish date (NOT publication's date).
@@ -19,16 +19,19 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Computer Methods in Applied Mechanics and Engineering, 384*(113924)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "In order to optimally design materials, it is crucial to understand the structure–property relations in the material by analyzing the effect of microstructure parameters on the macroscopic properties. In computational homogenization, the microstructure is thus explicitly modeled inside the macrostructure, leading to a coupled two-scale formulation. Unfortunately, the high computational costs of such multiscale simulations often render the solution of design, optimization, or inverse problems infeasible. To address this issue, we propose in this work a non-intrusive reduced basis method to construct inexpensive surrogates for parametrized microscale problems; the method is specifically well-suited for multiscale simulations since the coupled simulation is decoupled into two independent problems: (1) solving the microscopic problem for different (loading or material) parameters and learning a surrogate model from the data; and (2) solving the macroscopic problem with the learned material model. The proposed method has three key features. First, the microscopic stress field can be fully recovered, which is useful for instance for revealing local stress concentrations inside the microstructure. Second, the method is able to accurately predict the stress field for a wide range of material parameters; furthermore, the derivatives of the effective stress with respect to the material parameters are available and can be readily utilized in solving optimization problems. Finally, it is more data efficient, i.e. requiring less training data, as compared to directly performing a regression on the effective stress. To construct the surrogate model, first, a proper orthogonal decomposition is performed on precomputed microscopic stress field snapshots to find a reduced basis for the stress. Second, a regression is employed to infer the coefficients of the reduced basis approximation for any arbitrary parameter value, thus enabling a rapid online evaluation of the microscopic stress. Equipped with the stress field, the effective stress and its partial derivatives can then be derived analytically. For the microstructures in the two test problems considered, the mean approximation error of the effective stress is as low as 0.1% despite using a relatively small training dataset. Embedded into the macroscopic problem, the reduced order model leads to an online computational speed up of approximately three orders of magnitude while maintaining a high accuracy as compared to the FE² solver."
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Proper Orthogonal Decomposition
+- Gaussian Process Regression
+- Computational Homogenization
+- Constitutive Modeling
 featured: false
 
 # links:
@@ -46,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -64,13 +67,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: 
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
