@@ -26,7 +26,7 @@ experience:
     company: Eindhoven University of Technology
     company_url: 'https://tue.nl'
     company_logo: tue-logo
-    location: California
+    location: Eindhoven, The Netherlands
     date_start: '2020-02-15'
     date_end: ''
     description: |2-
