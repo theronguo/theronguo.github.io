@@ -28,7 +28,7 @@ effective quantities are independent of the auxiliary problem, (2) the predicted
 is tested on several composite microstructures, where rotations and large variations in the shape of inclusions are considered. Finally, a two-scale example is shown, where the surrogate model achieves a high accuracy and significant speed up, thus demonstrating its potential in two-scale shape optimization and material design problems."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 
 tags:
 - Proper Orthogonal Decomposition
