@@ -2,8 +2,8 @@
 title: "Learning constitutive models from microstructural simulations via a non-intrusive reduced basis method"
 authors:
 - admin
-- Ondrej Rokos
-- Karen Veroy
+- O. Rokos
+- K. Veroy
 author_notes:
 - 
 date: "2021-10-01T00:00:00Z"
@@ -28,10 +28,11 @@ abstract: "In order to optimally design materials, it is crucial to understand t
 summary:
 
 tags:
-- Proper Orthogonal Decomposition
-- Gaussian Process Regression
-- Computational Homogenization
-- Constitutive Modeling
+- non-intrusive reduced basis method
+- proper orthogonal decomposition
+- computational homogenization
+- Gaussian process regression
+- multiscale analysis
 featured: false
 
 # links:

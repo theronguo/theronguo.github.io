@@ -2,9 +2,9 @@
 title: "Learning constitutive models from microstructural simulations via a non-intrusive reduced basis method: Extension to geometrical parameterizations"
 authors:
 - admin
-- Francesco A.B. Silva
-- Ondrej Rokos
-- Karen Veroy
+- F.A.B. Silva
+- O. Rokos
+- K. Veroy
 author_notes:
 - 
 date: "2022-11-01T00:00:00Z"
@@ -31,12 +31,12 @@ is tested on several composite microstructures, where rotations and large variat
 summary:
 
 tags:
-- Proper Orthogonal Decomposition
-- Gaussian Process Regression
-- Computational Homogenization
-- Constitutive Modeling
-- Geometric Transformation
-- Diffeomorphism
+- reduced order modeling
+- geometrical transformation
+- proper orthogonal decomposition
+- computational homogenization
+- Gaussian process regression
+- Shape optimization
 featured: false
 
 # links:

@@ -71,6 +71,6 @@ email: ''
 highlight_name: true
 ---
 
-Theron Guo is an enthusiastic computational scientist, who is exploring statistical methods for challenging nonlinear problems in the field of continuum mechanics. He is currently working as a PhD Candidate in reduced order modeling for multi-scale problems under the supervision of [Prof. Karen Veroy](https://scholar.google.de/citations?user=W9DzINsAAAAJ&hl=en) and [Ondřej Rokoš](https://scholar.google.com/citations?user=FMmVFeQAAAAJ&hl=en).
+Theron Guo is an enthusiastic computational scientist, who is exploring statistical methods for challenging nonlinear problems in the field of continuum mechanics. He is currently working as a PhD Candidate in reduced order modeling for multi-scale problems under the supervision of [Prof. Karen Veroy](https://scholar.google.de/citations?user=W9DzINsAAAAJ&hl=en) and [Dr. Ondřej Rokoš](https://scholar.google.com/citations?user=FMmVFeQAAAAJ&hl=en).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
