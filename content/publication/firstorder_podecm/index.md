@@ -6,8 +6,8 @@ authors:
 - K. Veroy
 author_notes:
 - 
-date: "2023-07-31T00:00:00Z"
-doi: " 10.48550/arXiv.2307.16894"
+date: "2024-01-01T00:00:00Z"
+doi: "10.1016/j.cma.2023.116467"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*arXiv.2307.16894*"
+publication: "*Computer Methods in Applied Mechanics and Engineering, 418A*(116467)*"
 publication_short: ""
 
 abstract: "In recent years, there has been a growing interest in understanding complex microstructures and their effect on macroscopic properties. In general, it is difficult to derive an effective constitutive law for such microstructures with reasonable accuracy and meaningful parameters. One numerical approach to bridge the scales is computational homogenization, in which a microscopic problem is solved at every macroscopic point, essentially replacing the effective constitutive model. Such approaches are, however, computationally expensive and typically infeasible in multi-query contexts such as optimization and material design. To render these analyses tractable, surrogate models that can accurately approximate and accelerate the microscopic problem over a large design space of shapes, material and loading parameters are required. In previous works, such models were constructed in a data-driven manner using methods such as Neural Networks (NN) or Gaussian Process Regression (GPR). However, these approaches currently suffer from issues, such as need for large amounts of training data, lack of physics, and considerable extrapolation errors. In this work, we develop a reduced order model based on Proper Orthogonal Decomposition (POD), Empirical Cubature Method (ECM) and a geometrical transformation method with the following key features: (i) large shape variations of the microstructure are captured, (ii) only relatively small amounts of training data are necessary, and (iii) highly non-linear history-dependent behaviors are treated. The proposed framework is tested and examined in two numerical examples, involving two scales and large geometrical variations. In both cases, high speed-ups and accuracies are achieved while observing good extrapolation behavior."
