@@ -23,10 +23,10 @@ bio: My research interests include reduced order modelling, solid mechanics and 
 # Interests to show in About widget
 interests:
   - Reduced order modelling
-  - Finite Element method
-  - Continuum Mechanics
-  - Artificial Intelligence
-  - Data Science
+  - Finite element method
+  - Continuum mechanics
+  - Artificial intelligence
+  - Data science
   - Dimensionality reduction
 
 # Education to show in About widget
