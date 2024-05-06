@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "About"
-    url: /#about2
+    url: /#about
   
   - title: "News"
-    url: /#news2
+    url: /#news
   
   - title: "Experiences"
-    url: /#experiences2
+    url: /#experiences
   
   - title: "Publications"
-    url: /#publications2
+    url: /#publications
   
   # - title: "Talks"
   #   url: /#talks
