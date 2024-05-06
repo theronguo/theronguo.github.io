@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div class="main" id="about2"></div>
 # About
 Hi there! I am a current postdoc at MIT working on <strong>heat transfer estimation procedures for spatial temporal multiscale problems</strong>. During my PhD, I developed reduced order models for the efficient solution of non-linear solid mechanics with applications to mechanical metamaterials. My thesis can be downloaded [here](files/thesis.pdf).
 
@@ -14,12 +15,14 @@ My CV can be found [here](files/cv.pdf).
 **Keywords**: estimation methods, reduced order modeling, metamaterials, multi-scale problems, numerical methods for PDEs, machine learning
 
 <div style="margin-top: 50px;"></div>
+<div class="main" id="news2"></div>
 # News
 - 2024.03 Relocated to Boston and started my postdoc at MIT!
 - 2024.02 Successfully graduated my PhD!
 - 2023.09 Best poster award at MORTECH 2023!
 
 <div style="margin-top: 50px;"></div>
+<div class="main" id="experiences2"></div>
 # Experiences
 <style>
   .bubble {
@@ -62,6 +65,7 @@ My CV can be found [here](files/cv.pdf).
 
 
 <div style="margin-top: 50px;"></div>
+<div class="main" id="publications2"></div>
 # Publications
 
 <details open>
