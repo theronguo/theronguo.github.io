@@ -15,6 +15,10 @@ My CV can be found [here](files/cv.pdf).
 
 <div style="margin-top: 50px;"></div>
 # News
+- 2025.06 I will attend <strong>Nek5000 Users Meeting</strong> in Virginia from August 5-7.
+- 2025.06 I give a presentation at LJLL/Inria Seminar on June 2!
+- 2025.04 I will again be at ENPC/Inria in Paris until July!
+- 2024.09 Visting ENPC/Inria in Paris until November!
 - 2024.03 Relocated to Boston and started my postdoc at MIT!
 - 2024.02 Successfully graduated my PhD!
 - 2023.09 Best poster award at MORTECH 2023!
